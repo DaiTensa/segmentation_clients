@@ -20,8 +20,11 @@ Les notebooks comprennent diverses étapes, allant de l'intégration des donnée
 ![mission](https://github.com/DaiTensa/segmentation_clients/blob/main/figures/Copie%20de%20Frise%20chronologique.png?raw=true)
 
 **1.** Features Engineering : Définition de critères de segmentation, Récence, Fréquence, le montant monétaire, le prix moyen, les versements échelonnés moyens, le nombre moyen de jours de livraison, etc.
+
 **2.** Clustering : Méthode RFM; RFM + Reviews; RFM + Reviews + Behavior; RFM + Reviews + Behavior + Catégories; All columns.
+
 **3.** Pour chaque méthodes: Nous utiliserons les algorithmes KMeans, DBSCAN et C.A.H.  
+
 **4.** Visualisation des clusters : Boxplot, Barplot, Distributions, Réduction de dimension. 
 
 ![rfm](https://github.com/DaiTensa/segmentation_clients/blob/main/figures/Copie%20de%20Frise%20chronologique%20(2).png?raw=true)
